@@ -1,2 +1,2 @@
-# domain_hijack.github.io
-temporary repo for hijacking a domain
+# Leonid Firsenkov 367587
+hello, here is my attempt to hijack a domain
